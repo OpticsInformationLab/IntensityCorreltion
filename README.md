@@ -1,7 +1,7 @@
 # IntensityCorreltion
 The recovery of the wavefront from spatially fluctuating fields using the two point intensity correlation, i.e., fourth order correlation.
 
-The repository displays the associated code for the research paper:  [Kumar Singh, R., & Sharma M, A. (2014). Recovery of complex valued objects from two-point intensity correlation measurement. Applied Physics Letters, 104(11).]([https://www.nature.com/articles/s41598-023-37810-w](https://pubs.aip.org/aip/apl/article-abstract/104/11/111108/25333/Recovery-of-complex-valued-objects-from-two-point?redirectedFrom=fulltext)https://pubs.aip.org/aip/apl/article-abstract/104/11/111108/25333/Recovery-of-complex-valued-objects-from-two-point?redirectedFrom=fulltext)
+The repository displays the associated code for the research paper:  [Kumar Singh, R., & Sharma M, A. (2014). Recovery of complex valued objects from two-point intensity correlation measurement. Applied Physics Letters, 104(11).](https://pubs.aip.org/aip/apl/article-abstract/104/11/111108/25333/Recovery-of-complex-valued-objects-from-two-point?redirectedFrom=fulltext)
 
 If you have any question, please contact the author: krakeshsingh.phy@iitbhu.ac.in 
 
